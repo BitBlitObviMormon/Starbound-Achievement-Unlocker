@@ -1,0 +1,10 @@
+{
+  "name" : "hylotlmission",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}

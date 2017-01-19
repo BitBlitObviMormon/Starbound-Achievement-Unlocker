@@ -1,0 +1,10 @@
+{
+  "name" : "10tenantquests",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}

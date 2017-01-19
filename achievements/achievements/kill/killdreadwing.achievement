@@ -1,0 +1,10 @@
+{
+  "name" : "killdreadwing",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}

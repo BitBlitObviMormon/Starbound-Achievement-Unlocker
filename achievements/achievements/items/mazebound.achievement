@@ -1,0 +1,10 @@
+{
+  "name" : "mazebound",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "planetblocks",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "uniquetenants",
+
+  "triggers" : [
+    "kill"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : []
+}
