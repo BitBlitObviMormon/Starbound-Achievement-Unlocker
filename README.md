@@ -9,3 +9,5 @@ asset_packer.exe %PathToMod% ..\mods\AchievementUnlocker.pak
 Don't forget to replace `%PathToMod%` with the complete path to your *Achievement Unlocker* folder.
 ## Releases
 You can subscribe to the [mod on steam](http://steamcommunity.com/sharedfiles/filedetails/?id=739417892 "Starbound Achievement Unlocker") or move the [latest GitHub release](https://github.com/BitBlitObviMormon/Starbound-Achievement-Unlocker/releases "GitHub Releases") to your `Starbound\mods` folder to use the latest stable release.
+## Any updates?
+You may have noticed that I have not updated the mod in a long while. I never needed to! The old mod still works as of 7/6/2022 and it looks like that's never going to change.
